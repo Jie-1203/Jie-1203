@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay Huang.
-- 😄 I was a freshman at uestc.
+- 😄 I was a student at uestc.
 - 👀 I’m interested in AI and psychology.
 - 🌱 I’m currently learning pansharpening.
 - 🎓 I'm seeking opportunities to pursue a Ph.D. in Computer Science in the USA.
